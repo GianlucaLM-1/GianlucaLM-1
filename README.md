@@ -20,7 +20,7 @@
 
 <h2  align="center">💻 Check Out My best projects ⬇️ </h2>
 
-<a href="https://https://github.com/GianlucaLM-1/incremental-learning-semantic-segmentation">
+<a href="https://github.com/GianlucaLM-1/incremental-learning-semantic-segmentation">
   <img align="center" src="https://user-images.githubusercontent.com/66356627/141084352-57b989d7-067e-4817-8ba6-eafb2cd9438e.png" />
 </a>
 
