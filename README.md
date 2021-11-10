@@ -1,7 +1,10 @@
 <h3 align="center">
-  Welcome to Gianluca La Malfa's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Gianluca La Malfa's profile!<img src="https://user-images.githubusercontent.com/66356627/141089316-4fe9d01b-8d20-4732-8dee-a13582771302.gif" width="30">
+  <br/>!
+
+  <img src="https://user-images.githubusercontent.com/66356627/141088807-30410fcb-59c5-4080-adce-657a8908c093.gif" width="400">
 </h3>
+
 
 ### About me:
 
