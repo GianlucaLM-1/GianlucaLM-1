@@ -12,8 +12,8 @@
 
 ### My Passions:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 💻 &nbsp; I love exploring new stuffs.
+- 📰 &nbsp; Reading & writing articles.
 - 🏎 &nbsp; I love watching and analysing motorsport races, especially F1.
 
 <br/>
