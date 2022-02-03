@@ -8,7 +8,7 @@
 
 ### About me:
 
-- 🛠 &nbsp; I’m currently working with Python,Mongodb,NoSQL.
+- 🛠 &nbsp; I’m currently working on learning new things about Machine Learning.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/GianlucaLM-1).
 - 📫 &nbsp; How to reach me: lamalfagianluca12@gmail.com.
 - 💼 &nbsp; You can find me on <a href="https://www.linkedin.com/in/gianluca-la-malfa-a748ba1b8/"> Linkedin </a>
