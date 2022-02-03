@@ -23,10 +23,16 @@
 
 <h2  align="center">🔝 Check Out My best projects 👨🏻‍💻 </h2>
 
-<a href="https://github.com/GianlucaLM-1/incremental-learning-semantic-segmentation">
-  <img align="center" src="https://user-images.githubusercontent.com/66356627/141084352-57b989d7-067e-4817-8ba6-eafb2cd9438e.png" />
-</a>
+- 🖼 &nbsp; Incremental Learning in semantic segmentation. You can find it at: <a href="https://github.com/GianlucaLM-1/incremental-learning-semantic-segmentation> Link </a>
+- 🐥 &nbsp; Twitter Sentiment Analysis. You can find it at: <a href="https://github.com/GianlucaLM-1/Twitter-Sentiment-Analysis> Link </a>
+- 🎼 Domestic Sounds classification: Work in progess
+- 📖 Text Summarization of financial reports: Work in Progress
 
+<h2  align="center">📕 Academic Repositories 👨🏻‍💻 </h2>
+- 📗 &nbsp; Machine Learning for IoT. You can find it at: <a href="https://github.com/GianlucaLM-1/ML-for-IoT-works> Link </a>
+- 📙 &nbsp; Deep Natural Language Processing. You can find it at: <a href="https://github.com/GianlucaLM-1/NLP-Works> Link </a>
+  
+  
 
 
 
