@@ -29,7 +29,7 @@
 - 📖 &nbsp; Text Summarization of financial reports: Work in Progress
 
 <h2  align="center">📕 Academic Repositories 👨🏻‍💻 </h2>
- 📗 &nbsp; Machine Learning for IoT. You can find it at: <a href="https://github.com/GianlucaLM-1/ML-for-IoT-works"> Link </a>
+ 📗 &nbsp; Machine Learning for IoT. You can find it at: <> Private </a>
  📙 &nbsp; Deep Natural Language Processing. You can find it at: <a href="https://github.com/GianlucaLM-1/NLP-Works"> Link </a>
   
   
