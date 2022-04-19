@@ -22,14 +22,14 @@
 <br/>
 
 <h2  align="center">🔝 Check Out My best projects 👨🏻‍💻 </h2>
-
+- 🚨 &nbsp; Smart Surveillance on RaspberryPi: You can find it at: <a href="https://github.com/GianlucaLM-1/smart-surveillance-raspberrypi"> Link </a>
 - 🖼 &nbsp; Incremental Learning in semantic segmentation. You can find it at: <a href="https://github.com/GianlucaLM-1/incremental-learning-semantic-segmentation"> Link </a>
 - 🐥 &nbsp; Twitter Sentiment Analysis. You can find it at: <a href="https://github.com/GianlucaLM-1/Twitter-Sentiment-Analysis"> Link </a>
-- 🎼 &nbsp; Domestic Sounds classification: Work in progess
 - 📖 &nbsp; Text Summarization of financial reports: Work in Progress
 
 <h2  align="center">📕 Academic Repositories 👨🏻‍💻 </h2>
- 📗 &nbsp; Machine Learning for IoT.(Private at the moment)
+ 📗 &nbsp; Machine Learning for IoT.<a href="https://github.com/GianlucaLM-1/ML-for-IoT-works"> Link </a>
+ <br>
  📙 &nbsp; Deep Natural Language Processing. You can find it at: <a href="https://github.com/GianlucaLM-1/NLP-Works"> Link </a>
   
   
