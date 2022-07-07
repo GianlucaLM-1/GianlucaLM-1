@@ -32,6 +32,9 @@
  📗 &nbsp; Machine Learning for IoT.<a href="https://github.com/GianlucaLM-1/ML-for-IoT-works"> Link </a>
  <br>
  📙 &nbsp; Deep Natural Language Processing. You can find it at: <a href="https://github.com/GianlucaLM-1/NLP-Works"> Link </a>
+ 📘 &nbsp; Model based software design. You can find it at: <a href=" https://github.com/GianlucaLM-1/Model-based-software-design-"> Link </a>
+ 
+
   
   
 
