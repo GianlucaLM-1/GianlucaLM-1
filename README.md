@@ -26,7 +26,10 @@
   <br>
   🖼 &nbsp; Incremental Learning in semantic segmentation. You can find it at: <a href="https://github.com/GianlucaLM-1/incremental-learning-semantic-segmentation"> Link </a><br>
   🐥 &nbsp; Twitter Sentiment Analysis. You can find it at: <a href="https://github.com/GianlucaLM-1/Twitter-Sentiment-Analysis"> Link </a><br>
+  🏦 &nbsp; Bank Marketing: <a href="https://github.com/GianlucaLM-1/bank_marketing"> Link </a><br> 
   📖 &nbsp; Text Summarization of financial reports: <a href="https://github.com/francescodisalvo05/nlp-financial-summarization-rl"> Link </a><br> 
+
+
 
 <h2  align="center">📕 Academic Repositories 👨🏻‍💻 </h2>
  📗 &nbsp; Machine Learning for IoT.You can find it at:<a href="https://github.com/GianlucaLM-1/ML-for-IoT-works"> Link </a>
